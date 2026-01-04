@@ -1,0 +1,20 @@
+server:
+  host: "127.0.0.1"
+  port: 8080
+
+agent:
+  id: "agent-ubuntu-01"
+  debug: true
+
+logging:
+  collection_interval: 5000
+  send_interval: 10000
+  batch_size: 1
+  buffer_max_size: 10000
+  sources:
+    - name: "syslog"
+      path: "/var/log/syslog"
+    - name: "auditd"
+      path: "/var/log/audit/audit.log"
+    - name: "bash_history"
+      path: "~/.bash_history"

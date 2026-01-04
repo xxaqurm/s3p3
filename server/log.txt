@@ -1,0 +1,228 @@
+Time: Mon Jan  5 02:47:54 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"privilege_escalation","severity":"WARNING","user":"xxaqurm","process":"bash","command":"sudo install -D -o root -g root -m 644 packages.microsoft.gpg /etc/apt/keyrings/packages.microsoft.gpg","raw_log":"sudo install -D -o root -g root -m 644 packages.microsoft.gpg /etc/apt/keyrings/packages.microsoft.gpg"}
+
+Time: Mon Jan  5 02:48:04 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"INFO","user":"xxaqurm","process":"bash","command":"clear","raw_log":"clear"}
+
+Time: Mon Jan  5 02:48:04 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"INFO","user":"xxaqurm","process":"bash","command":"qt --version","raw_log":"qt --version"}
+
+Time: Mon Jan  5 02:48:04 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"INFO","user":"xxaqurm","process":"bash","command":"qt version","raw_log":"qt version"}
+
+Time: Mon Jan  5 02:48:04 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"INFO","user":"xxaqurm","process":"bash","command":"qt5 version","raw_log":"qt5 version"}
+
+Time: Mon Jan  5 02:48:04 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"INFO","user":"xxaqurm","process":"bash","command":"qt6 version","raw_log":"qt6 version"}
+
+Time: Mon Jan  5 02:48:04 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"INFO","user":"xxaqurm","process":"bash","command":"clear","raw_log":"clear"}
+
+Time: Mon Jan  5 02:48:04 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"INFO","user":"xxaqurm","process":"bash","command":"git init s3p3","raw_log":"git init s3p3"}
+
+Time: Mon Jan  5 02:48:04 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"INFO","user":"xxaqurm","process":"bash","command":"cd s3p3","raw_log":"cd s3p3"}
+
+Time: Mon Jan  5 02:48:04 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"INFO","user":"xxaqurm","process":"bash","command":"clear","raw_log":"clear"}
+
+Time: Mon Jan  5 02:48:04 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"INFO","user":"xxaqurm","process":"bash","command":"code .","raw_log":"code ."}
+
+Time: Mon Jan  5 02:48:04 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"INFO","user":"xxaqurm","process":"bash","command":"cd Practice_2","raw_log":"cd Practice_2"}
+
+Time: Mon Jan  5 02:48:04 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"INFO","user":"xxaqurm","process":"bash","command":"clear","raw_log":"clear"}
+
+Time: Mon Jan  5 02:48:04 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"INFO","user":"xxaqurm","process":"bash","command":"ls","raw_log":"ls"}
+
+Time: Mon Jan  5 02:48:04 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"INFO","user":"xxaqurm","process":"bash","command":"cp client ../s3p3","raw_log":"cp client ../s3p3"}
+
+Time: Mon Jan  5 02:48:04 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"INFO","user":"xxaqurm","process":"bash","command":"cp -r client ../s3p3","raw_log":"cp -r client ../s3p3"}
+
+Time: Mon Jan  5 02:48:04 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"INFO","user":"xxaqurm","process":"bash","command":"cp -r database ../s3p3","raw_log":"cp -r database ../s3p3"}
+
+Time: Mon Jan  5 02:48:04 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"INFO","user":"xxaqurm","process":"bash","command":"cp -r server ../s3p3","raw_log":"cp -r server ../s3p3"}
+
+Time: Mon Jan  5 02:48:04 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"INFO","user":"xxaqurm","process":"bash","command":"clear","raw_log":"clear"}
+
+Time: Mon Jan  5 02:48:04 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"INFO","user":"xxaqurm","process":"bash","command":"exit","raw_log":"exit"}
+
+Time: Mon Jan  5 02:48:04 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"INFO","user":"xxaqurm","process":"bash","command":"go mod init s3p3","raw_log":"go mod init s3p3"}
+
+Time: Mon Jan  5 02:48:04 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"INFO","user":"xxaqurm","process":"bash","command":"mkdir server dbmanager","raw_log":"mkdir server dbmanager"}
+
+Time: Mon Jan  5 02:48:04 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"INFO","user":"xxaqurm","process":"bash","command":"clear","raw_log":"clear"}
+
+Time: Mon Jan  5 02:48:04 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"INFO","user":"xxaqurm","process":"bash","command":"mkdir logCollector sender","raw_log":"mkdir logCollector sender"}
+
+Time: Mon Jan  5 02:48:04 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"INFO","user":"xxaqurm","process":"bash","command":"mv dbmanager dbManager","raw_log":"mv dbmanager dbManager"}
+
+Time: Mon Jan  5 02:48:04 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"INFO","user":"xxaqurm","process":"bash","command":"clear","raw_log":"clear"}
+
+Time: Mon Jan  5 02:48:04 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"INFO","user":"xxaqurm","process":"bash","command":"mkdir messageBuffer config Manager","raw_log":"mkdir messageBuffer config Manager"}
+
+Time: Mon Jan  5 02:48:04 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"INFO","user":"xxaqurm","process":"bash","command":"clear","raw_log":"clear"}
+
+Time: Mon Jan  5 02:48:04 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"INFO","user":"xxaqurm","process":"bash","command":"cd ..","raw_log":"cd .."}
+
+Time: Mon Jan  5 02:48:04 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"INFO","user":"xxaqurm","process":"bash","command":"git clone https://github.com/xxaqurm/Practice_2","raw_log":"git clone https://github.com/xxaqurm/Practice_2"}
+
+Time: Mon Jan  5 02:48:04 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"INFO","user":"xxaqurm","process":"bash","command":"ls","raw_log":"ls"}
+
+Time: Mon Jan  5 02:48:04 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"INFO","user":"xxaqurm","process":"bash","command":"clear","raw_log":"clear"}
+
+Time: Mon Jan  5 02:48:04 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"INFO","user":"xxaqurm","process":"bash","command":"cd s3l3","raw_log":"cd s3l3"}
+
+Time: Mon Jan  5 02:48:04 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"INFO","user":"xxaqurm","process":"bash","command":"clear","raw_log":"clear"}
+
+Time: Mon Jan  5 02:48:04 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"INFO","user":"xxaqurm","process":"bash","command":"ls","raw_log":"ls"}
+
+Time: Mon Jan  5 02:48:04 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"INFO","user":"xxaqurm","process":"bash","command":"cd s3p3","raw_log":"cd s3p3"}
+
+Time: Mon Jan  5 02:48:04 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"INFO","user":"xxaqurm","process":"bash","command":"clear","raw_log":"clear"}
+
+Time: Mon Jan  5 02:48:04 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"INFO","user":"xxaqurm","process":"bash","command":"ls","raw_log":"ls"}
+
+Time: Mon Jan  5 02:48:04 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"INFO","user":"xxaqurm","process":"bash","command":"rm dbManager Manager server","raw_log":"rm dbManager Manager server"}
+
+Time: Mon Jan  5 02:48:04 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"INFO","user":"xxaqurm","process":"bash","command":"clear","raw_log":"clear"}
+
+Time: Mon Jan  5 02:48:04 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"dangerous_command","severity":"CRITICAL","user":"xxaqurm","process":"bash","command":"rm -rfdbManager Manager server","raw_log":"rm -rfdbManager Manager server"}
+
+Time: Mon Jan  5 02:48:04 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"dangerous_command","severity":"CRITICAL","user":"xxaqurm","process":"bash","command":"rm -rf dbManager Manager server","raw_log":"rm -rf dbManager Manager server"}
+
+Time: Mon Jan  5 02:48:04 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"INFO","user":"xxaqurm","process":"bash","command":"clear","raw_log":"clear"}
+
+Time: Mon Jan  5 02:48:04 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"INFO","user":"xxaqurm","process":"bash","command":"cd ..","raw_log":"cd .."}
+
+Time: Mon Jan  5 02:48:04 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"INFO","user":"xxaqurm","process":"bash","command":"ls","raw_log":"ls"}
+
+Time: Mon Jan  5 02:48:04 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"INFO","user":"xxaqurm","process":"bash","command":"git clone https://github.com/xxaqurm/Poizon-telegram-bot","raw_log":"git clone https://github.com/xxaqurm/Poizon-telegram-bot"}
+
+Time: Mon Jan  5 02:48:04 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"INFO","user":"xxaqurm","process":"bash","command":"ls","raw_log":"ls"}
+
+Time: Mon Jan  5 02:48:04 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"INFO","user":"xxaqurm","process":"bash","command":"cd Poizon-telegram-bot","raw_log":"cd Poizon-telegram-bot"}
+
+Time: Mon Jan  5 02:48:04 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"INFO","user":"xxaqurm","process":"bash","command":"clear","raw_log":"clear"}
+
+Time: Mon Jan  5 02:48:04 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"INFO","user":"xxaqurm","process":"bash","command":"ls","raw_log":"ls"}
+
+Time: Mon Jan  5 02:48:04 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"INFO","user":"xxaqurm","process":"bash","command":"code .","raw_log":"code ."}
+
+Time: Mon Jan  5 02:48:04 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"INFO","user":"xxaqurm","process":"bash","command":"./server \u0026","raw_log":"./server \u0026"}
+
+Time: Mon Jan  5 02:48:04 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"INFO","user":"xxaqurm","process":"bash","command":"clear","raw_log":"clear"}
+
+Time: Mon Jan  5 02:48:04 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"INFO","user":"xxaqurm","process":"bash","command":"lsof -i :8080","raw_log":"lsof -i :8080"}
+
+Time: Mon Jan  5 02:48:04 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"INFO","user":"xxaqurm","process":"bash","command":"go run server.go","raw_log":"go run server.go"}
+
+Time: Mon Jan  5 02:48:04 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"INFO","user":"xxaqurm","process":"bash","command":"clear","raw_log":"clear"}
+
+Time: Mon Jan  5 02:48:04 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"WARNING","user":"xxaqurm","process":"bash","command":"sudo run server.go","raw_log":"sudo run server.go"}
+
+Time: Mon Jan  5 02:48:04 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"INFO","user":"xxaqurm","process":"bash","command":"clear","raw_log":"clear"}
+
+Time: Mon Jan  5 02:48:05 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"WARNING","user":"xxaqurm","process":"bash","command":"sudo go run server.go","raw_log":"sudo go run server.go"}
+
+Time: Mon Jan  5 02:48:05 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"INFO","user":"xxaqurm","process":"bash","command":"clear","raw_log":"clear"}
+
+Time: Mon Jan  5 02:48:05 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"WARNING","user":"xxaqurm","process":"bash","command":"sudo go run server.go","raw_log":"sudo go run server.go"}
+
+Time: Mon Jan  5 02:48:05 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"INFO","user":"xxaqurm","process":"bash","command":"clear","raw_log":"clear"}
+
+Time: Mon Jan  5 02:48:05 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"WARNING","user":"xxaqurm","process":"bash","command":"sudo go run server.go","raw_log":"sudo go run server.go"}
+
+Time: Mon Jan  5 02:48:05 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"INFO","user":"xxaqurm","process":"bash","command":"lsof -i 8080","raw_log":"lsof -i 8080"}
+
+Time: Mon Jan  5 02:48:05 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"INFO","user":"xxaqurm","process":"bash","command":"clear","raw_log":"clear"}
+
+Time: Mon Jan  5 02:48:05 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"INFO","user":"xxaqurm","process":"bash","command":"lsof -i :8080","raw_log":"lsof -i :8080"}
+
+Time: Mon Jan  5 02:48:05 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"WARNING","user":"xxaqurm","process":"bash","command":"sudo go run server.go","raw_log":"sudo go run server.go"}
+
+Time: Mon Jan  5 02:48:05 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"INFO","user":"xxaqurm","process":"bash","command":"lsof -i :128","raw_log":"lsof -i :128"}
+
+Time: Mon Jan  5 02:48:05 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"WARNING","user":"xxaqurm","process":"bash","command":"sudo ss -lptn 'sport = :8080'","raw_log":"sudo ss -lptn 'sport = :8080'"}
+
+Time: Mon Jan  5 02:48:05 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"WARNING","user":"xxaqurm","process":"bash","command":"sudo kill 28213","raw_log":"sudo kill 28213"}
+
+Time: Mon Jan  5 02:48:05 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"INFO","user":"xxaqurm","process":"bash","command":"clear","raw_log":"clear"}
+
+Time: Mon Jan  5 02:48:05 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"WARNING","user":"xxaqurm","process":"bash","command":"sudo go run server.go","raw_log":"sudo go run server.go"}
+
+Time: Mon Jan  5 02:48:05 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"WARNING","user":"xxaqurm","process":"bash","command":"sudo ss -lptn 'sport = :8080'","raw_log":"sudo ss -lptn 'sport = :8080'"}
+
+Time: Mon Jan  5 02:48:05 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"WARNING","user":"xxaqurm","process":"bash","command":"sudo kill 28213","raw_log":"sudo kill 28213"}
+
+Time: Mon Jan  5 02:48:06 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"WARNING","user":"xxaqurm","process":"bash","command":"sudo ss -lptn 'sport = :8080'","raw_log":"sudo ss -lptn 'sport = :8080'"}
+
+Time: Mon Jan  5 02:48:08 2026
+Request received: security_db security_events.json hope its my action {"timestamp":"2026-01-05T02:47:49+07:00","hostname":"parrot","source":"bash_history","event_type":"command_execution","severity":"WARNING","user":"xxaqurm","process":"bash","command":"sudo kill -9 28213","raw_log":"sudo kill -9 28213"}
+
